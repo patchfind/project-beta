@@ -1,5 +1,4 @@
 # Core AI stack
-langchai==0.3
 langgraph==0.2
 langchain-community==0.3
 langchain-huggingface==0.3
