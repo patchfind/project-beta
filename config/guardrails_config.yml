@@ -1,0 +1,9 @@
+rails:
+  config:
+    enabled: true
+  input:
+    flows:
+      - self_check_input
+  output:
+    flows:
+      - self_check_output

@@ -1,0 +1,5 @@
+This sample repository demonstrates a lightweight retrieval-augmented generation app built with LangChain, LangGraph, and a local FAISS vector store.
+
+The project uses a compact embedding model and a small text generation model so it is easy to run on a laptop or a dev machine without a production GPU.
+
+The app is intentionally modular: configuration, data loading, vector storage, LangGraph orchestration, guardrails, and observability live in separate modules to keep the project simple and easy to extend.
